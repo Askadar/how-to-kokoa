@@ -1,0 +1,11 @@
+{
+	"scripts": {
+		"start": "nodemon ."
+	},
+	"dependencies": {
+		"koa": "^2.6.2"
+	},
+	"devDependencies": {
+		"nodemon": "^1.18.7"
+	}
+}
